@@ -1,6 +1,6 @@
-# Lab 11 - Sorting the table
+# Lab 7 - Sorting the table
 
-Enda Lee 2023
+Enda Lee 2025
 
 ### Quick Start
 
